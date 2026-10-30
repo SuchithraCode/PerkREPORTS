@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="reactreportsperkinternal.client/reactreportsperkinternal.client.esproj">
+    <Build />
+    <Deploy />
+  </Project>
+  <Project Path="ReactReportsPerkInternal.Server/ReactReportsPerkInternal.Server.csproj" />
+</Solution>
